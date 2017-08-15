@@ -24,6 +24,10 @@ wiringPi
 ## wiringPi API wrapper
 This is done in libwiringPi.lisp.
 
+## Electronic circuit
+
+![i2c_lcd_circuit.png](https://github.com/fireflower0/MI2CLCD-01CtrlApp/blob/master/img/i2c_lcd_circuit.png)
+
 ## Demo
 ![mi2clcd-icon.png](https://github.com/fireflower0/MI2CLCD-01CtrlApp/blob/master/img/mi2clcd_icon.png)
 
